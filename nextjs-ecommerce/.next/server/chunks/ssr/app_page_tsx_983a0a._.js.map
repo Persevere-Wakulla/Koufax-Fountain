@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file://C%3A/Users/PCC-04/Desktop/Koufax%20Fountain/Git%20Labs/nextjs-ecommerce/app/page.tsx"],"sourcesContent":["\nexport default function Page() {\n  return (\n    <main>\n      <h1>Home Page</h1>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;AACe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV"}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
